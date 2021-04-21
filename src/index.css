@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  color: #515151;
+}
+
+.error-msg {
+  font-size: 14px;
+  color: #c42626;
+  margin-top: 4px;
+  margin-bottom: 14px;
+}
